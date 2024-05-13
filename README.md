@@ -17,3 +17,7 @@ is used to highlight the relevant defect areas. Networks such as
 GoogLeNet, SqueezeNet, and ResNet demonstrate superior classification
 accuracy compared to other advanced neural network
 architectures.
+
+
+
+https://www.kaggle.com/datasets/praveen2084/leather-defect-classification
